@@ -5,7 +5,7 @@
 
 One of the most helpful things that helped with our design methods was developing UML diagrams. It was very helpful to be able to come up with different perspectives on what our bot would do during development of use cases. Doing so allowed us to consider how we would construct our software, how it would be limited and helped us to decide what implementations to emphasize over others. Developing the class diagram laid the framework for our technical implementation and gave us great direction on what and where to implement code. After developing the class diagram, problems arose as a result of technical knowledge rather than organizational skills.
 
-***What was most difficult? What would you do differently? ***
+***What was most difficult? What would you do differently?***
 
 The most difficult part of the design was figuring out the limitations of our project as well as rationalizing our expectations. Even though we all came from pretty much the same technical background, we still were not sure if we were over or under estimating our capabilities. We did not accurately consider the cost of learning a new language and how to operate a database, which affected our design process greatly. Now that we have more knowledge of how certain things work, I would choose softwares and languages that I am familiar with or that have lots of documentation online.
 
